@@ -37,5 +37,6 @@ public final class Constants {
     public static final int     CONTROLLER1_PORT            = 0;
     
     
+    public static final int     MAX_TA_ENTRIES              = 50;
 
 }
